@@ -1,0 +1,12 @@
+# Site settings
+title: Emre Turkay
+email: emreturkay@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    My sharings about software development concepts I enjoy experimenting.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://emreturkay.github.io" # the base hostname & protocol for your site
+twitter_username: emreturkay
+github_username:  emreturkay
+
+# Build settings
+markdown: kramdown

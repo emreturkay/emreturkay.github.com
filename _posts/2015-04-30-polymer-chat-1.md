@@ -171,6 +171,5 @@ Now we have a fancy looking chat application, using exactly the same logic with 
 
 You can fetch the result from the [GitHub repo](https://github.com/emreturkay/polymer-chat-example/releases/tag/0.0.1). If you don't have time to try it yourself, this is how it looks:
 
-<img src="/images/polymer-chat-capture-01.png"
-     alt="Polymer Chat Screen Capture" align="right">
+<img src="/images/polymer-chat-capture-01.png" alt="Polymer Chat Screen Capture">
 

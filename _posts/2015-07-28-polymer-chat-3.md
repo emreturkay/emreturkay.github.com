@@ -172,7 +172,7 @@ socket.on('chat message', function(msg) {
 });
 {% endhighlight %}
 
-You can find the source of the final example at [Github](https://github.com/emreturkay/polymer-chat-example/tree/0e6148c9adff5e1d227f60ac17b9b4d6092a20fe).
+You can find the source of the final example at [GitHub](https://github.com/emreturkay/polymer-chat-example/tree/0e6148c9adff5e1d227f60ac17b9b4d6092a20fe).
 
 ## Application as a Web Component
 We have already created two components, the `<chat-message-editor>` and `<chat-message-view>` and while building them we have used some Polymer elements. Similar to that, we can use our own custom components to build bigger and better composite components. To demonstrate it I have created a `<chat-app>` component containing the whole application wrapping all the visual and behavioral aspects of our chat application.
